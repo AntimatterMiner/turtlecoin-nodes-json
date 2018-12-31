@@ -162,6 +162,12 @@
       "port": 11898,
       "ssl": false
     },
+     {
+      "name": "Profesional Turtle Node",
+      "url": "212.237.58.46",
+      "port": 11898,
+      "ssl": false
+    },
     {
       "name": "PUBLIC - public.turtlenode.io",
       "url": "public.turtlenode.io",
